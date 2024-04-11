@@ -1,10 +1,10 @@
 {
-    "name": "⦓ 𝐒𝐨𝐔𝐮𝐫𝐜𝐞 𝐄𝐢𝐑𝐭𝐡𝐨𝐧 ⦔",
+    "name": "⦓  hi ⦔",
     "description": "تنصيب بوتات القران للتشغيل في المكالمات الصوتية",
-    "logo": "https://graph.org/file/d3c93a72c858f8b8677e9.jpg",
+    "logo": "",
     "keywords": [
     "python3",
-    "telegram",
+    "telegram"
     "Fallen",
     "MusicBot",
     "telegram-bot",
@@ -32,7 +32,7 @@
         "required": true
       },
       "SESSION": {
-        "description": "ضـع جـلـسـه الـبـايـوجـرام اسـتـخـرجـهـا مـن هـنـا @SMAZENBOT",
+        "description": "ضـع جـلـسـه الـبـايـوجـرام اسـتـخـرجـهـا مـن هـنـا @termix_code_bot",
         "value": "",
         "required": true
       },
@@ -42,8 +42,8 @@
         "required": true
       },
       "SUPPORT_CHAT": {
-        "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/MR_Eirux",
+        "description": "ضـع رابـط قناتك",
+        "value": "https://t.me/J_G_H",
         "required": false
       }
     },
